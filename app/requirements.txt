@@ -3,4 +3,4 @@ openai[embeddings]==0.27.2
 pinecone_client==2.0.13
 requests_html==0.10.0
 validators==0.20.0
-gunicorn==20.1.0
+gunicorn==22.0.0
